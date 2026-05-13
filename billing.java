@@ -1,1 +1,1 @@
-this is billing.java file, it is used for code commiting
+this is billing.java file, it is used for code commiting and practicing
